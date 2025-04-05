@@ -5,7 +5,7 @@ Este es un repositorio para aprender a usar github, donde crearemos un video exp
 
 anñadimos otra línea
 
-Este es un repositorio para aprender a usar github, donde crearemos un video 
+Este es un repositorio para aprender a usar github, 
 
 
 
