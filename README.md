@@ -4,7 +4,7 @@ Este es un repositorio para aprender a usar github, donde crearemos un video exp
 
 
 
-Esta es la versión en la rama principal
+
 
 
 
