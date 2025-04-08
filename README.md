@@ -5,7 +5,7 @@ Este es un repositorio donde crearemos un video en el que crearemos una nueva ra
 
 
 
-Este es un repositorio para aprender a usar github, 
+Este es un repositorio para aprender 
 
 
 
