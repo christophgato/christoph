@@ -1,9 +1,9 @@
 # Crear un video navegando en el repositorio
 
 
-Este es un repositorio para aprender a usar github, donde crearemos un video explicando algunos pasos. 
+Este es un repositorio donde crearemos un video en el que crearemos una nueva rama y la fusionaremos a la rama principal.
 
-anñadimos otra línea
+
 
 Este es un repositorio para aprender a usar github, 
 
