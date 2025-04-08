@@ -3,12 +3,11 @@
 
 Este es un repositorio en el que crearemos una nueva rama y la fusionaremos a la rama principal.
 
+Grabaremos un video de esto.
 
 
 
 
-Le añadimos esta línea.
- a ver ve
 
 
 
