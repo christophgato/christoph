@@ -1,11 +1,11 @@
 # Crear un video navegando en el repositorio
 
 
-Este es un repositorio donde crearemos un video en el que crearemos una nueva rama y la fusionaremos a la rama principal. y añadimos
+Este es un repositorio donde crearemos un video en el que crearemos una nueva rama y la fusionaremos a la rama principal. y añadimos algo pequeño
 
 
 
-Este es un repositorio para aprender 
+ 
 
 
 
